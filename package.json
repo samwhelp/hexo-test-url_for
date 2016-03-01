@@ -1,0 +1,15 @@
+{
+  "name": "hexo-test-url_for",
+  "version": "1.0.0",
+  "description": "test hexo helper url_for",
+  "main": "app.js",
+  "scripts": {
+	"start": "./app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "samwhelp",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.5.1"
+  }
+}
